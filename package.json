@@ -1,0 +1,28 @@
+{
+  "name": "curso-asincronismo-js",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo en JavaScript",
+  "main": "src/app.js",
+  "scripts": {
+    "callback": "node src/callback/app.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferAS26/Curso-Asincronismo-JS.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "Jennifer Alarcon Serna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JenniferAS26/Curso-Asincronismo-JS/issues"
+  },
+  "homepage": "https://github.com/JenniferAS26/Curso-Asincronismo-JS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
