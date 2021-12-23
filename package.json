@@ -5,7 +5,9 @@
   "main": "src/app.js",
   "scripts": {
     "callback": "node src/callback/app.js",
-    "callback:challenge": "node src/callback/challenge.js"
+    "callback:challenge": "node src/callback/challenge.js",
+    "promise": "node src/promise/app.js",
+    "promise:challenge": "node src/promise/challenge.js"
   },
   "repository": {
     "type": "git",

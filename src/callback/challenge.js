@@ -7,7 +7,7 @@
 */
 
 let XMLHttpRequest =  require('xmlhttprequest').XMLHttpRequest;
-let API = 'https://rickandmortyapi.com/api/character/'
+let API = 'https://rickandmortyapi.com/api/character/';
 
 /** FUNCION QUE DA VIDA A LAS LLAMADAS DE MI API */
 function fetchData(url_api, callback) {
